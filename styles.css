@@ -1,0 +1,21 @@
+body {
+    /* The background image */
+    background-image: url("https://th.bing.com/th/id/R.220568ed4e83c98f2a390a0e3d92efb3?rik=oUH7iR2Sjoa5rA&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f09%2fDownload-All-White-Image.jpg&ehk=%2bQMyqpj8O008ybzZBs7Srk7JArJjRjwys58Cm%2ftvHZk%3d&risl=&pid=ImgRaw&r=0");
+  
+    /* Set a specified height, or the minimum height for the background image */
+    min-height: 500px;
+  
+    /* Set background image to fixed (don't scroll along with the page) */
+    background-attachment: fixed;
+  
+    /* Center the background image */
+    background-position: center;
+  
+    /* Set the background image to no repeat */
+    background-repeat: no-repeat;
+  
+    /* Scale the background image to be as large as possible */
+    background-size: cover;
+  }
+
+  
